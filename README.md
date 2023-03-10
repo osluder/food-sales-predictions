@@ -7,7 +7,7 @@ The goal is to help the retailer understand the properties of items and outlets 
 
 **Author**: Olen Sluder
 
-### Data:
+### Data
 The dataset consists of 8,523 rows of item and outlet data.
 
 | Column Name | Type | Description |
