@@ -46,7 +46,7 @@ The dataset consists of 8,523 rows of item and outlet data.
 
 ## Model
 
-A decision tree was selected for the machine learning model. It has shows the ability to predict sales on a testing dataset to within an average of 1,057.43.
+A decision tree was selected for the machine learning model. It shows the ability to predict sales on a testing dataset to within an average of 1,057.43.
 
 ### For further information
 
