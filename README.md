@@ -35,23 +35,19 @@ The dataset consists of 8,523 rows of item and outlet data.
 ### Does the item price and the outlet type impact sales?
 ![sample image](sales-predictions-1.jpg)
 
-> - In addition to varying between outlet types, the correlation between item price and item outlet sales is not linear: there are items with high prices that do not sell well and items with low prices that sell well.
-> - The retailer may want to adjust the prices of certain items to increase their sales or promote higher-priced items with a strong sales record. They could also investigate why certain items with high prices are not selling well.
+- In addition to varying between outlet types, the correlation between item price and item outlet sales is not linear: there are items with high prices that do not sell well and items with low prices that sell well.
+- The retailer may want to adjust the prices of certain items to increase their sales or promote higher-priced items with a strong sales record. They could also investigate why certain items with high prices are not selling well.
 
 ### Do different types of outlets carry different types of items?
 ![sample image](sales-predictions-2.jpg)
 
-> - The types of items sold varies across outlet types. In 'Supermarket Type1' outlets, the top-selling item types are 'Fruits and Vegetables', 'Snack Foods', and 'Household'. Other supermarket outlet types follow a similar pattern, but with lower total sales. In 'Grocery Store' outlets, the top-selling item types are 'Snack Foods', 'Fruits and Vegetables', and 'Household'.
-> - The retailer may want to promote the top-selling items in each outlet type to increase sales.
+- The types of items sold varies across outlet types. In 'Supermarket Type1' outlets, the top-selling item types are 'Fruits and Vegetables', 'Snack Foods', and 'Household'. Other supermarket outlet types follow a similar pattern, but with lower total sales. In 'Grocery Store' outlets, the top-selling item types are 'Snack Foods', 'Fruits and Vegetables', and 'Household'.
+- The retailer may want to promote the top-selling items in each outlet type to increase sales.
 
 ## Model
 
-Describe your final model
-
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
+A decision tree was selected for the machine learning model. It has shows the ability to predict sales on a testing dataset to within an average of 1,057.43.
 
 ### For further information
 
-For any additional information, please contact olen.sluder@gmail.com
+Please contact olen.sluder@gmail.com
