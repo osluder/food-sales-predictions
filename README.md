@@ -26,7 +26,8 @@ The dataset consists of 8,523 rows of item and outlet data.
 | Item_Outlet_Sales | Float | Sales of the product in the particular store |
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
+- Missing data is filled with imputed values 
+-
 - 
 
 ## Results
@@ -35,11 +36,19 @@ The dataset consists of 8,523 rows of item and outlet data.
 
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+![sample image](sales-predictions-1.jpg)
 
 > Sentence about visualization.
 
-#### Visual 2 Title
+#### Visual 1 Title
+![sample image](sales-predictions-2.jpg)
+
+> Sentence about visualization.
+
+#### Visual 1 Title
+![sample image](sales-predictions-3.jpg)
+
+> Sentence about visualization.
 
 ## Model
 
@@ -61,8 +70,4 @@ More of your own text here
 
 ### For further information
 
-For any additional questions, please contact olen.sluder@gmail.com.
-
-
-
-![A screenshot of a Google Colaboratory notebook with the table of contents, a Python code snippet, and a Seaborn data plot displayed.](sales_predictions.png)
+For any additional information, please contact olen.sluder@gmail.com
