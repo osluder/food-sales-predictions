@@ -33,13 +33,13 @@ The dataset consists of 8,523 rows of item and outlet data.
 ## Results
 
 ### Does the item price and the outlet type impact sales?
-![sample image](sales-predictions-1.jpg)
+![sample image](images/sales-predictions-1.jpg)
 
 - In addition to varying between outlet types, the correlation between item price and item outlet sales is not linear: there are items with high prices that do not sell well and items with low prices that sell well.
 - The retailer may want to adjust the prices of certain items to increase their sales or promote higher-priced items with a strong sales record. They could also investigate why certain items with high prices are not selling well.
 
 ### Do different types of outlets carry different types of items?
-![sample image](sales-predictions-2.jpg)
+![sample image](images/sales-predictions-2.jpg)
 
 - The types of items sold varies across outlet types. In 'Supermarket Type1' outlets, the top-selling item types are 'Fruits and Vegetables', 'Snack Foods', and 'Household'. Other supermarket outlet types follow a similar pattern, but with lower total sales. In 'Grocery Store' outlets, the top-selling item types are 'Snack Foods', 'Fruits and Vegetables', and 'Household'.
 - The retailer may want to promote the top-selling items in each outlet type to increase sales.
