@@ -1,4 +1,4 @@
-# sales_predictions
+# sales-predictions
 
 ## A portfolio project demonstrating sales predictions for items sold at various retail outlets.
 
